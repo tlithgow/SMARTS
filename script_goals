@@ -1,0 +1,9 @@
+what i want
+
+1. dictionary showing how many times an application id is present in the csv_inf
+2. a csv of all unique rows from the original
+3. a csv of all rows removed (i.e. 5 of the same row when there was originally 6)
+4. a csv of all rows that do not have an associated application id
+
+
+why is this so hard for me?
