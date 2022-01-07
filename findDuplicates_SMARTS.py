@@ -1,10 +1,10 @@
-# Find duplicates
+# Script goal: to isolate unique records in the SMARTS data and generate
+# a csv that only contains one of each application.
+# please note: this runs with WDID instead of APP_ID becuase there are 121
+# records with no APP_ID.
 import csv
 import os, sys
-#print('Python: {}'.format(sys.version))
 import pdb
-#import pandas as pd
-
 
 # path to file
 in_file = 'smarts_data1221.csv'
@@ -29,28 +29,23 @@ with open(in_file) as infile:
             app_id_to_row[app_id] = tuple(line)
 
         application_counts[app_id] = application_counts.get(app_id, 0) + 1
-    print('total = ' + str(sum(application_counts.values()))) #sanity check = 33200
+    print('total records in original csv = ' + str(sum(application_counts.values()))) #sanity check = 33200
 
 
 
 # trying to find sums
     a = sum(1 for i in application_counts.values() if i>=2)
-    print('duplicates = ' + str(a))
+    print('duplicated IDs = ' + str(a))
+    print('total number of IDs = ' + str(len(application_counts)))
 
-    print('unique IDs =', str(len(application_counts)))
-
-#if application_duplicates.values()>1:
-#        total = sum(application_duplicates.values())
-#        print(total)
-
-# csv with application ids and how many times they occur in the data set
+# csv with WDIDs and how many times they occur in the data set
 with open('application_counts.csv', 'w+') as counts:
     writer = csv.writer(counts)
     writer.writerow(['application_id', 'occurences'])
     for app_id, count in application_counts.items():
-        #if application_counts[app_id]>1:
-            writer.writerow([app_id, count])
+        writer.writerow([app_id, count])
 
+# csv with WDIDs and how many times they are duplicated in the data set
 with open('application_duplicates.csv', 'w+') as dupl:
     writer = csv.writer(dupl)
     writer.writerow(['application_id', 'occurences'])
@@ -62,7 +57,7 @@ with open('application_duplicates.csv', 'w+') as dupl:
 
 # csv containing all records removed from the original data
 # application id duplicates - 1 that stays in the original to
-# have only one of each project in the surrogate
+# have only one of each project in the output
 unique_rows = set()
 with open(in_file) as infile:
     csv_inf = csv.reader(infile)
@@ -83,13 +78,5 @@ with open(in_file) as infile:
                 else:
                     writer_dupl.writerow(line)
 
-            print(len(unique_rows))
-#test2
-
-        #    if not app_id in uniques[1]:
-        #        writer.writerow(line)
-        #    else:
-        #        pass
-            #unique_rows = csv_pd.APP_ID.unique()
-            #if unique_rows == TRUE:
-            #    writer.writerow(unique_rows)
+            print('number of records in final output = ' + str(len(unique_rows)))
+            print('NOTE: number of records in final output should be equal to unique IDs')
