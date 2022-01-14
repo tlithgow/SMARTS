@@ -1,0 +1,284 @@
+Column1,APP_ID,WDID,STATUS,NOI_PROCESSED_DATE,NOT_EFFECTIVE_DATE,REGION,COUNTY,SITE_NAME,SITE_ADDRESS,SITE_ADDRESS_2,SITE_CITY,SITE_STATE,SITE_ZIP,SITE_LATITUDE,SITE_LONGITUDE,SITE_COUNTY,SITE_TOTAL_SIZE,SITE_TOTAL_SIZE_UNIT,SITE_TOTAL_DISTURBED_ACREAGE,TOTAL_DISTURBED_ACREAGE_UNIT,PERCENT_TOTAL_DISTURBED,IMPERVIOUSNESS_BEFORE,IMPERVIOUSNESS_AFTER,MILE_POST_MARKER,CONSTRUCTION_COMMENCEMENT_DATE,COMPLETE_GRADING_DATE,COMPLETE_PROJECT_DATE,TYPE_OF_CONSTRUCTION,Year_construction_complete,year column,terminated?
+Construction,186608,4 19C300131,Terminated,10/5/92,6/11/03,4,Los Angeles,32300 Old Ridge Rd , 32300 Old Ridge Rd,,Castaic,California,91310,,,Los Angeles,96,Acres,,Acres,,4,6,1/1/50,,12/30/30,Construction,2030,completion,TRUE
+Construction,290276,9 37C320021,Terminated,2/4/03,2/15/05,9,San Diego,Capital Improvement Program , 4677 Overland Ave,,San Diego,California,92123,,,San Diego,259,Acres,113,Acres,44,,,9/1/90,,1/1/15,Construction,2015,completion,TRUE
+Construction,262331,5S57C301296,Terminated,10/27/92,6/5/97,5S,Yolo,3939 Second Street , 3939 2nd St,,Davis,California,95616,,,Yolo,19,Acres,,Acres,,0,10,6/2/91,,6/18/16,Construction,2016,completion,TRUE
+Construction,261865,4 19C301911,Terminated,1/29/93,6/7/01,4,Los Angeles,500 S Buena Vista Street , 500 S Buena Vista St,,Burbank,California,91521,,,Los Angeles,45,Acres,,Acres,,80,80,1/25/93,,12/19/17,Construction,2017,completion,TRUE
+Construction,197718,5S03C304706,Terminated,5/26/95,9/2/10,5S,Amador,19711 CA Mine Rd , 19711 California Mine Road,,Amador City,California,,,,Amador,6,Acres,6,Acres,,0,0,2/10/95,,9/29/15,Construction,2015,completion,TRUE
+Construction,198204,5S09C310415,Terminated,1/21/99,2/27/03,5S,El Dorado,Mira Loma Dr , Mira Loma Dr,,Cameron Park,California,95682,,,El Dorado,17,Acres,,Acres,,0,10,2/15/99,,6/15/20,Construction,2020,completion,TRUE
+Construction,272956,3 44C310305,Terminated,12/28/98,12/11/01,3,Santa Cruz,149 Harkin Slough Rd , 149 Harkins Slough Rd,,Watsonville,California,95076,,,Santa Cruz,10,Acres,,Acres,,0,40,4/1/99,,9/30/22,Construction,2022,completion,TRUE
+Construction,182551,2 38C314531,Terminated,11/20/00,10/21/02,2,San Francisco,Mission Bay North & South , Seventh And Terry A Francois,,San Francisco,California,94107,,,San Francisco,100,Acres,100,Acres,100,40,90,12/1/00,12/31/19,12/31/20,Construction,2020,completion,TRUE
+Construction,274836,2 38C314672,Terminated,12/18/00,1/11/02,2,San Francisco,Mission Bay North & South , Townsend And Terry A Francois,,San Francisco,California,94107,,,San Francisco,100,Acres,100,Acres,100,40,90,12/1/00,12/31/19,12/31/20,Construction,2020,completion,TRUE
+Construction,215184,9 33C319293,Terminated,11/3/02,5/7/09,9,Riverside,Rancho Cmnty Church , Constance St,,Temecula,California,92592,,,Riverside,24,Acres,24,Acres,100,0,58,12/3/02,1/20/03,1/1/17,Construction,2017,completion,TRUE
+Construction,187673,4 19C322799,Terminated,8/5/03,6/24/08,4,Los Angeles,Newhall Rnch Area A , North Side Of Highway 126,,Valencia,California,91355,,,Los Angeles,1653,Acres,1653,Acres,,,,8/5/03,1/1/28,1/1/28,Construction,2028,completion,TRUE
+Construction,187675,4 19C322801,Terminated,8/5/03,6/24/08,4,Los Angeles,Newhall Rnch Area C , East Of Long Canyon And The Me,,Valencia,California,91355,,,Los Angeles,6808,Acres,6808,Acres,,,,8/5/03,1/1/28,1/1/28,Construction,2028,completion,TRUE
+Construction,187676,4 19C322802,Terminated,8/5/03,6/24/08,4,Los Angeles,Newhall Rnch Area D , South Of Riverwood In Oak Vall,,Valencia,California,91355,,,Los Angeles,3286,Acres,3286,Acres,100,,,8/5/03,1/1/28,1/1/28,Construction,2028,completion,TRUE
+Construction,273508,2 38C331352,Terminated,12/8/04,9/2/10,2,San Francisco,Mission Bay , Insert 1.0,,San Francisco,California,,,,San Francisco,154,Acres,154,Acres,100,40,100,1/1/04,12/31/19,12/31/20,Construction,2020,completion,TRUE
+Construction,196286,5F16C329715,Terminated,9/2/04,9/2/10,5F,Kings,Hewitson Mine , West Of Hwy 41,,Avenal,California,93204,,,Kings,28,Acres,28,Acres,,0,0,8/24/04,6/1/20,9/1/20,Construction,2020,completion,TRUE
+Construction,361659,9 37C354705,Terminated,3/2/09,12/4/15,9,San Diego,High Meadow Ranch, S Muth Valley Rd W of Wildcat Canyon Rd,,Abbott,California,92040,,,San Diego,802.9,Acres,160,Acres,19.93,,10,1/1/05,4/1/09,6/1/19,Construction,2019,completion,TRUE
+Construction,288297,9 33C334038,Terminated,5/11/05,9/2/10,9,Riverside,Parcel Map 21382 , Avenida Alvarado & Via Industria,,Temecula,California,92591,,,Riverside,43,Acres,43,Acres,,5,60,5/2/05,12/31/05,6/30/15,Construction,2015,completion,TRUE
+Construction,279333,5F10C335406,Terminated,7/14/05,9/2/10,5F,Fresno,Shaver Forest Village , Lots 6 & 7 Of Tract 3995,,Shaver Lake,California,93664,,,Fresno,50,Acres,22,Acres,43,0,15,9/1/05,10/1/08,8/31/15,Construction,2015,completion,TRUE
+Construction,287184,9 33C338115,Terminated,11/30/05,4/11/17,9,Riverside,Parcel 2 PM 30623, Via Verda,,Temecula,California,92592,,,Riverside,5,Acres,1,Acres,25,0,10,8/15/06,,,Construction,2017,NOT,TRUE
+Construction,319409,3 42C345413,Terminated,1/23/07,6/7/10,3,Santa Barbara,Dunn School, 2555 W Hwy 154,,Los Olivos,California,93441,,,Santa Barbara,57,Acres,15,Acres,26,24,26,1/15/07,8/15/31,6/15/32,Construction,2032,completion,TRUE
+Construction,403474,5S34C358241,Terminated,5/25/10,8/24/11,5S,Sacramento,Gerber Rd Landfill Maintenance, 10363 Gerber Rd,,Sacramento,California,95829,,,Sacramento,80,Acres,10,Acres,8,0,0,4/15/07,10/15/15,10/15/15,Construction,2015,completion,TRUE
+Construction,326444,5R32C347497,Terminated,6/13/07,5/6/09,5R,Plumas,Sierra Cascade Aggregate & Asphalt Prod LLC, 6600 Old Ski Rd,,Chester,California,96020,,,Plumas,28,Acres,25,Acres,95,,,5/30/07,,5/9/32,Construction,2032,completion,TRUE
+Construction,,8 33CN600489,Undetermined,,,8,Riverside,Star Ranch Corona Highland, 5165 Green River Rd,,Corona,California,92880,,,Riverside,120,Acres,10,Acres,8.33,3,3,1/1/08,,1/1/15,Construction,2015,completion,FALSE
+Construction,348992,5R45C352645,Terminated,7/15/08,9/2/10,5R,Shasta,Track Map 1932 Oak Ranch Estates, Rhonda Rd & Manor Crest,,Cottonwood,California,96022,,,Shasta,139,Acres,18,Acres,13,5,17,5/15/08,8/15/08,8/15/15,Construction,2015,completion,TRUE
+Construction,344488,5F24C351817,Terminated,5/12/08,4/15/15,5F,Merced,Schmidt Ranch Sand Mine, 6890 W Oakdale Rd,,Winton,California,,,,Merced,29,Acres,29,Acres,100,,,7/1/08,12/31/08,12/31/19,Construction,2019,completion,TRUE
+Construction,359363,1 47C354444,Terminated,1/22/09,2/2/17,1,Siskiyou,Little Lynn Pit, Reservoir Rd,,Montague,California,96064,,,Siskiyou,16,Acres,16,Acres,100,,,7/1/08,,12/1/20,Construction,2020,completion,TRUE
+Construction,348823,5S50C352586,Terminated,7/15/08,12/3/08,5S,Stanislaus,Cape Horn Tunnel Rehabilitation Project, W Horseshoe Rd,near Tullock Lateral,Oakdale,California,95361,,,Stanislaus,5.3,Acres,5.3,Acres,100,,,8/1/08,8/1/08,4/1/15,Construction,2015,completion,TRUE
+Construction,349889,5S39C352824,Terminated,7/31/08,9/2/10,5S,San Joaquin,Gurudwara Sahib Tracy, 11770 W Clover Rd,,Tracy,California,95304,,,San Joaquin,2.29,Acres,1.8,Acres,90,1,10,8/15/08,8/15/18,10/15/18,Construction,2018,completion,TRUE
+Construction,355005,6B36C354180,Terminated,12/16/08,9/17/09,6B,San Bernardino,South Septage Pond Liner at the Barstow Sanitary Const Project 30700050, 32553 Barstow Rd,,Barstow,California,92310,,,San Bernardino,5,Acres,2.3,Acres,40,,,11/3/08,11/3/08,1/30/00,Construction,2021,completion,TRUE
+Construction,355734,5F15C354026,Terminated,11/21/08,11/16/09,5F,Kern,Mill Creek Linear Park Canal Facilities Phase 2, 700 21st St,,Bakersfield,California,93301,,,Kern,1.17,Acres,1.17,Acres,100,60,60,12/1/08,1/1/31,1/1/31,Construction,2031,completion,TRUE
+Construction,364931,5S29C355402,Terminated,5/20/09,9/2/10,5S,Nevada,Blue Lead Gold Mine, 18272 Red Dog Rd,,Grass Valley,California,95945,,,Nevada,50,Acres,2,Acres,4,,,5/1/09,6/1/09,12/31/29,Construction,2029,completion,TRUE
+Construction,363645,2 38C355130,Terminated,4/16/09,8/30/11,2,San Francisco,San Francisco General Hospital Rebuild, 1001 Potrero Ave Bldg,,San Francisco,California,94110,,,San Francisco,3.99,Acres,3.99,Acres,100,65,94,5/15/09,5/16/11,12/15/15,Construction,2015,completion,TRUE
+Construction,366614,6B36C355577,Terminated,6/15/09,9/2/10,6B,San Bernardino,Bryman Pit, 14651 S Bryman Rd,,Oro Grande,California,92368,,,San Bernardino,70.6,Acres,35.1,Acres,49.7,,,7/1/09,7/1/20,7/1/20,Construction,2020,completion,TRUE
+Construction,401807,5F15C357283,Terminated,1/29/10,5/24/10,5F,Kern,Oil Well Pads, NW 1/4 S 36 T28S R27E MDSM APN 484 010 25 5 & 484 010 29 3,,Bakersfield,California,93308,,,Kern,2,Acres,2,Acres,100,,,12/21/09,3/30/10,12/31/20,Construction,2020,completion,TRUE
+Construction,401773,8 33C357219,Terminated,1/25/10,5/20/10,8,Riverside,Sycamore Creek Tract 30440 3, SEC of Mayhew Canyon Rd & Santiago Canyon Rd,,Corona,California,99999,,,Riverside,17.6,Acres,15.2,Acres,86,0,50,4/1/10,,3/15/15,Construction,2015,completion,TRUE
+Construction,403216,2 48C358146,Terminated,5/13/10,9/12/11,2,Solano,Watersone S Lobe, W of Columbus Pkwy at Greenmont Ave,,Vallejo,California,94591,,,Solano,78,Acres,64,Acres,100,15,74,5/12/10,,5/12/15,Construction,2015,completion,TRUE
+Construction,404001,1 12C358547,Terminated,6/16/10,9/2/10,1,Humboldt,Development of Scotia Community Services District, Town of Scotia,,Scotia,California,95565,,,Humboldt,200,Acres,20,Acres,10,,,6/28/10,,10/15/16,Construction,2016,completion,TRUE
+Construction,402234,8 36C357436,Terminated,2/24/10,5/27/10,8,San Bernardino,King Street Property, ,11220 King St,Redlands,California,92374,,,San Bernardino,4.9,Acres,4.9,Acres,100,100,90,6/30/10,6/30/12,6/30/15,Construction,2015,completion,TRUE
+Construction,401179,5S03C356929,Terminated,12/10/09,1/20/16,5S,Amador,Gravity Supply Line, btwn Tiger Creek Regulator Reservoir & Buckhorn WTP,,Pioneer,California,95666,,,Amador,40,Acres,24.31,Acres,60.77,7,7,10/1/13,5/5/14,6/1/15,Linear,2015,completion,TRUE
+Construction,364785,8 30C355286,Terminated,5/6/09,3/1/12,8,Orange,Stadium Club, 1761 S Campton Ave,,Anaheim,California,92805,,,Orange,3.2,Acres,3.2,Acres,100,,85,1/1/14,1/20/16,12/31/16,Construction,2016,completion,TRUE
+Construction,,8 36CN603623,NOI Required,3/15/17,,8,San Bernardino,Yucaipa Terrace, Holmes St & Wildwood Canyon Rd.,,Yucaipa,California,92399,,,San Bernardino,,,12,Acres,76,0,33,3/14/17,,3/14/19,Construction,2019,completion,FALSE
+Construction,197721,5S03C312895,Terminated,3/29/00,2/14/03,5S,Amador,North Buckeye Mining Proj , 8955 Ione Michigan Bar Rd,,Ione,California,95640,,,Amador,160,Acres,16,Acres,10,0,0,,7/3/18,9/30/18,Construction,2018,completion,TRUE
+Construction,204270,6B19C330761,Terminated,11/2/04,5/12/16,6B,Los Angeles,Bradley Residences , 3731 Camino Vista Dr,,Lancaster,California,93536,,,Los Angeles,2,Acres,2,Acres,100,2,35,,,,Construction,2016,NOT,TRUE
+Construction,279625,5F10C333679,Terminated,4/15/05,8/30/16,5F,Fresno,Tract 5207 , E Side Of Temperance Betw Nees & Teague,,Clovis,California,93611,,,Fresno,21,Acres,21,Acres,100,0,50,,,,Construction,2016,NOT,TRUE
+Construction,,5R04CN602905,No Action Required,8/11/15,,5R,Butte,Zink Road Complaint, Zink Road,,Berry Creek,California,95966,,,Butte,,,,Acres,,,,,,,Construction,2015,NOI,FALSE
+Construction,,4 19CN602911,No Action Required,9/3/15,,4,Los Angeles,822 N. Kenter Avenue, 822 N. Kenter Ave.,,Los Angeles,California,90049,,,Los Angeles,,,,Acres,,,,,,,Construction,2015,NOI,FALSE
+Construction,,4 56CN602915,NOI Required,9/18/15,,4,Ventura,APN 649 0 162 01, the northerly terminus of Healy Trail in the Manor Lake Estates area,,Chatsworth Lake Manor,California,91311,,,Ventura,,,,Acres,,,,,,,Construction,2015,NOI,FALSE
+Construction,,1 23CN602948,NOI Required,11/16/15,,1,Mendocino,The Skunk Train Tunnel One West Portal, 100 West Laurel Street,,Fort Bragg,California,95437,,,Mendocino,,,,Acres,,,,,,,Construction,2015,NOI,FALSE
+Construction,,1 49CN602954,NOI Required,12/1/15,,1,Sonoma,Reid Mac, 3858 Santa Rosa Avenue,,Santa Rosa,California,95407,,,Sonoma,,,,Acres,,,,,,,Construction,2015,NOI,FALSE
+Construction,,5R04CN602970,Undetermined,12/15/15,,5R,Butte,Brian Smart Property, 37 Pacific Heights Dr,,Oroville,California,95965,,,Butte,,,,Acres,,,,,,,Construction,2015,NOI,FALSE
+Construction,,5R04CN602980,NOI Required,12/30/15,,5R,Butte,Bobby Green, 3140 Foothill Blvd,,Oroville,California,95966,,,Butte,,,,Acres,,,,,,,Construction,2015,NOI,FALSE
+Construction,,1 47CN603022,NOI Required,2/12/16,,1,Siskiyou,JH Ranch Mountain Resort Inc, 8525 Homestead Lane,,Etna,California,96027,,,Siskiyou,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,9 37CN603026,No Action Required,2/19/16,,9,San Diego,Single Family Valley Center , 11589 Old Castle Road ,Lot 1,Valley Center,California,92082,,,San Diego,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,8 33CN603027,No Action Required,2/23/16,,8,Riverside,Leigh Ann and Dave Paule, 30891 Black Horse Drive,,Canyon Lake,California,92587,,,Riverside,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,3 40CN603058,NOI Required,4/7/16,,3,San Luis Obispo,Pismo Heights Wastewater Line Replacement, Wadsworth etc.,,Pismo Beach,California,93403,,,San Luis Obispo,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,4 19CN603062,Undetermined,4/14/16,,4,Los Angeles,Unknown, 8740 La Tijera Blvd and 8820 Sepulveda East Way,,Los Angeles,California,90045,,,Los Angeles,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,4 19CN603120,No Action Required,6/29/16,,4,Los Angeles,1013 1037 West Figueroa Terrace, 1013 1037 West Figueroa Terrace,,Los Angeles,California,90012,,,Los Angeles,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,1 49CN603152,NOI Required,8/4/16,,1,Sonoma,Cold Creek Ranch, 7205 Geysers Road,,Geyserville,California,95441,,,Sonoma,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 01CN603339,No Action Required,8/30/16,,2,Alameda,Alameda Point Naval Air Station," 2450 Saratoga Street, Suite 200, Alameda",Suite 200,Alameda,California,94510,,,Alameda,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 48CN603340,No Action Required,8/31/16,,2,Solano,OEA Aerospace Potrero Hills, 3530 Branscombe Road,,Fairfield,California,94533,,,Solano,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 07CN603341,No Action Required,8/31/16,,2,Contra Costa,Steelscape, 2995 Atlas Rd,,Richmond,California,94806,,,Contra Costa,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 01CN603349,No Action Required,9/9/16,,2,Alameda,Not Availabe, 1350 4th Street,,Berkeley,California,94710,,,Alameda,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 41CN603350,No Action Required,9/9/16,,2,San Mateo,Former Rohm & Hass, 800 Chestnut Street,,Redwood City,California,94062,,,San Mateo,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 41CN603351,No Action Required,9/9/16,,2,San Mateo,Federal Mogul Site (former), 1301-1501 Broadway,,Redwood City,California,94061,,,San Mateo,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 41CN603352,No Action Required,9/9/16,,2,San Mateo,Redwood City Rail Spur, between Bay Road and,Charter Street,Redwood City,California,94061,,,San Mateo,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 41CN603353,No Action Required,9/9/16,,2,San Mateo,"Ritz Cleaners (former),", 37 James Avenue,,Redwood City,California,94061,,,San Mateo,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 43CN603354,No Action Required,9/9/16,,2,Santa Clara,Adualloy, 844 E Charleston,,Palo Alto,California,94303,,,Santa Clara,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 01CN603358,No Action Required,9/9/16,,2,Alameda,Former Merill Sign, 612 18th Street,,Oakland,California,94611,,,Alameda,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,1 43CN603359,No Action Required,9/9/16,,1,Santa Clara,Former TM-M Manufacturing, 695 E Arques,,Sunnyvale,California,95051,,,Santa Clara,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 43CN603365,No Action Required,9/12/16,,2,Santa Clara,Unknown, 2875 Park Blvd,,Palo Alto,California,94306,,,Santa Clara,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 43CN603366,No Action Required,9/12/16,,2,Santa Clara,Hohbach, 195 Page Mill Rd,,Palo Alto,California,94306,,,Santa Clara,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,2 43CN603367,No Action Required,9/12/16,,2,Santa Clara,Monkoff Group, 385 Sharmon Ave,,Palo Alto,California,94305,,,Santa Clara,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,5S51CN603440,NOI Required,12/21/16,,5S,Sutter,Montecito, Brighton Way,,Yuba City,California,95991,,,Sutter,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,9 37CN603443,NOI Required,12/27/16,,9,San Diego,Fallbrook Golf Course, 2757 Gird Rd ,,Fallbrook,California,92028,,,San Diego,,,,Acres,,,,,,,Construction,2016,NOI,FALSE
+Construction,,4 19CN603524,No Action Required,1/20/17,,4,Los Angeles,Unknown, 2100-2148 Sapota Drive,,La Habra Heights,California,90631,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,5F10CN603527,No Action Required,1/23/17,,5F,Fresno,Grove Two Subdivision Sewer Connection, LaVona and Bullard,,Clovis,California,,,,Fresno,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603551,No Action Required,1/26/17,,4,Los Angeles,Oakmont Capital, On Dunn Street,,Los Angeles,California,90013,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603552,No Action Required,1/26/17,,4,Los Angeles,CLG Construction, On Dunn Street,,Los Angeles,California,90013,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,8 33CN603610,Undetermined,2/22/17,,8,Riverside,TM 31500, S of Hwy 74 W of Sultanas Rd E of Emporer Rd,,Homeland,California,92548,,,Riverside,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603611,No Action Required,2/28/17,,4,Los Angeles,Unknown, 16736 and 16742 Pageant Place,,Encino,California,91436,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,8 36CN603622,NOI Required,3/15/17,,8,San Bernardino,Yucaipa Terrace, Holmes St & Wildwood Canyon Rd.,,Yucaipa,California,92399,,,San Bernardino,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,8 36CN603633,NOI Required,3/30/17,,8,San Bernardino,Owen Court Estates Tract 16578, 6956 East Avenue,,Rancho Cucamonga,California,91739,,,San Bernardino,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603641,NOI Required,4/11/17,,9,San Diego,residence, 18655 Swan Road,,Fallbrook,California,92065,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603645,Undetermined,4/11/17,,4,Los Angeles,Unknown, 3225 Grande Vista Drive,,Thousand Oaks,California,91320,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603646,Undetermined,4/11/17,,4,Los Angeles,Unknown, 3225 Grande Vista Drive,,Thousand Oaks,California,91320,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603649,No Action Required,4/13/17,,9,San Diego,Khourys, 3406 Linda Vista Terrace,,Fallbrook,California,92028,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603667,No Action Required,4/20/17,,4,Los Angeles,Unknown, 4600 Via Marina,,Marina Del Rey,California,90094,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,5S31CN603668,No Action Required,4/24/17,,5S,Placer,Allison Drive, 3630 Allison Drive,,Roseville,California,95661,,,Placer,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603677,Undetermined,5/2/17,,4,Los Angeles,DO NOT USE THIS _Duplicate of 4 19N603679, 738 Wilcox Ave,,Los Angeles,California,90038,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603679,No Action Required,5/2/17,,4,Los Angeles,Unknown, 727 Wilcox Ave,,Los Angeles,California,90038,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603686,No Action Required,5/2/17,,9,San Diego,V1 Ranch, 33905 Canfield Rd,,Poway,California,92060,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603687,NOI Required,5/2/17,,9,San Diego,Bill Zenovic, :             17068 State Route 67,,Ramona,California,92065,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603688,Undetermined,5/2/17,,9,San Diego,Bill Zenovic, :             17068 State Route 67,,Ramona,California,92065,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603689,Undetermined,5/2/17,,9,San Diego,Bill Zenovic, :             17068 State Route 67,,Ramona,California,92065,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603690,Undetermined,5/2/17,,9,San Diego,Bill Zenovic, :             17068 State Route 67,,Ramona,California,92065,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,2 07CN603728,NOI Required,6/1/17,,2,Contra Costa,Fairview Estates  , 8649 Terrace Drive ,,El Cerrito,California,94530,,,Contra Costa,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603770,Undetermined,6/5/17,,4,Los Angeles,Certech Dental Lab, 671 Brea Canyon Rd.,,Walnut,California,91789,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,2 28CN603873,Undetermined,6/16/17,,2,Napa,Bremer Family Winery , 975 Deer Park Road ,,Napa,California,94574,,,Napa,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603880,No Action Required,6/28/17,,4,Los Angeles,Los Angeles Fire Station No Thirtynine , 14615 Oxnard Street,,Van Nuys,California,91411,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603901,No Action Required,7/11/17,,9,San Diego,Commercial, 0 Capalina ,At APcific Street,San Marcos,California,92069,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,2 38CN603968,No Action Required,9/7/17,,2,San Francisco,Harty Development, 1025 Powhattan Ave.,,San Francisco,California,94122,,,San Francisco,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603969,No Action Required,9/7/17,,9,San Diego,Anderson Truck Trail, 589 Anderson Road,PRIVATE ROAD SEGMENT,Alpine,California,91903,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603971,NOI Required,9/14/17,,9,San Diego,Stephanie Walker, 607 Windmill Ranch Road,,Encinitas,California,92024,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN603972,NOI Required,9/14/17,,9,San Diego,Gabriel Castano Trust, PO Box 53,,San Marcos,California,92079,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,4 19CN603975,NOI Required,9/15/17,,4,Los Angeles,John Tu, 8 Crest Road East,,Rolling Hills,California,90274,,,Los Angeles,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,3 42CN603986,No Action Required,10/16/17,,3,Santa Barbara,Santa Barbara Pistachio Company, 4240 Hwy 33 ,,Ventucopa,California,93252,,,Santa Barbara,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,5S51CN603987,No Action Required,10/17/17,,5S,Sutter,Sangha Truck and Trailer Repair, 909 Oswald Road,,Yuba City,California,95991,,,Sutter,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 33CN604020,NOI Required,11/7/17,,9,Riverside,Jay & Sunny Yoon, 42502 Musilek Pl,,Temecula,California,92592,,,Riverside,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 33CN604029,NOI Required,11/9/17,,9,Riverside,Michael and Victoria Ghafouri , 22650 Calle Ninas Murrieta,,Murrieta,California,92562,,,Riverside,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,5S31CN604061,NOI Required,11/20/17,,5S,Placer,Residence, 9520 Horseshoe Bar Rd,,Loomis,California,95650,,,Placer,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 33CN604070,Undetermined,11/27/17,,9,Riverside,A and Shirley L Saba, 41309 Avenida Biona,,Temecula,California,92951,,,Riverside,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 37CN604103,NOI Required,12/1/17,,9,San Diego,Capalina, o Capalna at Rancho Santa Fe Rd,,San Marcos,California,92069,,,San Diego,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,9 33CN604118,NOI Required,12/7/17,,9,Riverside,Michael and Victoria Ghafouri , 22650 Calle Ninas,,Murrieta,California,92562,,,Riverside,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,8 30CN604127,Undetermined,12/13/17,,8,Orange,asdf, asdf,asdf,Babcock Crossing,California,32412,,,Orange,,,,Acres,,,,,,,Construction,2017,NOI,FALSE
+Construction,,2 49CN604251,No Action Required,4/9/18,,2,Sonoma,Adobe Canyon , 1 Adobe Canyon ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604252,No Action Required,4/9/18,,2,Sonoma,Adobe Canyon , 2 Adobe Canyon   ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604253,No Action Required,4/9/18,,2,Sonoma,Adobe Canyon , 3 Adobe Canyon   ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604254,No Action Required,4/9/18,,2,Sonoma,Adobe Canyon , 4 Adobe Canyon   ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604255,No Action Required,4/9/18,,2,Sonoma,Adobe Canyon , 5,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604256,No Action Required,4/9/18,,2,Sonoma,Adobe Canyon , 6 Adobe Canyon   ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604257,No Action Required,4/9/18,,2,Sonoma,Adobe Canyon , 7 Adobe Canyon   ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604258,No Action Required,4/9/18,,2,Sonoma,Adobe Canyon , 8 Adobe Canyon   ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604259,No Action Required,4/9/18,,2,Sonoma,Geln Ellen Inn , 13670 Arnold  ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604261,No Action Required,4/11/18,,2,Sonoma,Bonnie Way , 149 Bonnie Way ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604262,No Action Required,4/11/18,,2,Sonoma,Bonnie Way , 1 Bonnie Way ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604263,No Action Required,4/11/18,,2,Sonoma,Bonnie Way , 2 Bonnie Way ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604264,No Action Required,4/11/18,,2,Sonoma,Bonnie Way , 3 Bonnie Way ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604265,No Action Required,4/11/18,,2,Sonoma,Bonnie Way , 4 Bonnie Way ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604266,No Action Required,4/11/18,,2,Sonoma,Bonnie Way , 5 Bonnie Way ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604267,No Action Required,4/11/18,,2,Sonoma,Bonnie Way , 6 Bonnie Way ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604268,No Action Required,4/11/18,,2,Sonoma,Bonnie Way , 7 Bonnie Way ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,SB49CN604269,No Action Required,4/11/18,,SB,Sonoma,Syliva Drive , 210 Syliva Drive ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604270,No Action Required,4/11/18,,2,Sonoma,Syliva Drive , 232 Syliva Drive ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604271,No Action Required,4/11/18,,2,Sonoma,Syliva Drive , 210 Syliva Drive ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604272,No Action Required,4/11/18,,2,Sonoma,Syliva Drive , 248 Sylvia Drive ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604273,No Action Required,4/11/18,,2,Sonoma,Syliva Drive , 251 Sylvia drive,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604275,No Action Required,4/16/18,,2,Sonoma,Kappner , 2 Kappner ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604276,No Action Required,4/16/18,,2,Sonoma,Kappner , 3 Kappner ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604277,No Action Required,4/16/18,,2,Sonoma,Kappner , 4 Kappner ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604278,No Action Required,4/16/18,,2,Sonoma,Kappner , 5 Kappner ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604279,No Action Required,4/16/18,,2,Sonoma,Kappner , 6 Kappner ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604280,No Action Required,4/16/18,,2,Sonoma,Kappner , 7 Kappner ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604283,No Action Required,4/17/18,,2,Sonoma,HWy 12 , 8165 Hwy 12 ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604284,No Action Required,4/17/18,,2,Sonoma,Hwy 12 , 8205 Hwy 12 ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604285,No Action Required,4/17/18,,2,Sonoma,Hwy 12 , 12201,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604286,No Action Required,4/17/18,,2,Sonoma,Adine , 12245 Adine Ct,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604287,No Action Required,4/17/18,,2,Sonoma,Bristol , 2833 B Bristol ,,Kenwood,California,95452,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604288,No Action Required,4/17/18,,2,Sonoma,Bristol , 2833 A Bristol ,,Kenwood,California,95452,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604289,No Action Required,4/17/18,,2,Sonoma,Bristol , 2803 Bristol ,,Kenwood,California,95452,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604290,No Action Required,4/17/18,,2,Sonoma,Bristol , 2805 Bristol ,,Kenwood,California,95452,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604291,No Action Required,4/17/18,,2,Sonoma,Bristol , 2847 Bristol,,Kenwood,California,95452,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604292,No Action Required,4/17/18,,2,Sonoma,Bristol , 2861 Bristol ,,Kenwood,California,95452,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604293,No Action Required,4/17/18,,2,Sonoma,Bristol , 2865 Bristol,,Kenwood,California,95452,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 48CN604294,No Action Required,4/17/18,,2,Solano,Bristol , 2835 Bristol ,,Kenwood,California,95452,,,Solano,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604295,No Action Required,4/18/18,,2,Sonoma,Henno Road , 1 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604296,No Action Required,4/18/18,,2,Sonoma,Henno Road , 2 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604297,No Action Required,4/18/18,,2,Sonoma,Henno Road , 3 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604298,No Action Required,4/18/18,,2,Sonoma,Henno Road , 3 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604299,No Action Required,4/18/18,,2,Sonoma,Henno Road , 4 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604300,No Action Required,4/18/18,,2,Sonoma,Henno Road , 5 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604301,No Action Required,4/18/18,,2,Sonoma,Henno Road , 6 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604302,No Action Required,4/18/18,,2,Sonoma,Henno Road , 7 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604303,No Action Required,4/18/18,,2,Sonoma,Henno Road , 8 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 48CN604304,No Action Required,4/18/18,,2,Solano,Henno Road , 9 Henno Road ,,Glen Ellen,California,95442,,,Solano,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604305,No Action Required,4/18/18,,2,Sonoma,Henno Road , 10  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604306,No Action Required,4/18/18,,2,Sonoma,Henno Road , 11  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,1 49CN604307,No Action Required,4/18/18,,1,Sonoma,Henno Road , 12  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604308,No Action Required,4/18/18,,2,Sonoma,Henno Road , 12  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604309,No Action Required,4/18/18,,2,Sonoma,Henno Road , 13  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604310,No Action Required,4/18/18,,2,Sonoma,Henno Road , 14  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,1 49CN604311,No Action Required,4/18/18,,1,Sonoma,Henno Road , 15  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604315,No Action Required,4/18/18,,2,Sonoma,Henno Road , 9 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604316,No Action Required,4/18/18,,2,Sonoma,Henno Road , 14  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604317,No Action Required,4/18/18,,2,Sonoma,Henno Road , 15  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604318,No Action Required,4/18/18,,2,Sonoma,Henno Road , 16  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604319,No Action Required,4/18/18,,2,Sonoma,Henno Road , 17  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604320,No Action Required,4/18/18,,2,Sonoma,Henno Road , 18  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604321,No Action Required,4/18/18,,2,Sonoma,Henno Road , 19  Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604322,No Action Required,4/18/18,,2,Sonoma,Henno Road , 20 Henno Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604323,No Action Required,4/19/18,,2,Sonoma,Dunbar , 1 Dunbar St ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604324,No Action Required,4/19/18,,2,Sonoma,Dunbar , 8 Dunbar ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604325,No Action Required,4/19/18,,2,Sonoma,Dunbar , 9  Dunbar Road  ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604326,No Action Required,4/19/18,,2,Sonoma,Dunbar , 10  Dunbar Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604327,No Action Required,4/19/18,,2,Sonoma,Dunbar , 11  Dunbar Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604328,No Action Required,4/19/18,,2,Sonoma,Dunbar , 12 Dunbar Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604329,No Action Required,4/19/18,,2,Sonoma,Dunbar , 12 A Dunbar Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604330,No Action Required,4/19/18,,2,Sonoma,Dunbar , 13 Dunbar Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604331,No Action Required,4/19/18,,2,Sonoma,Dunbar , 21 Dunbar Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604332,No Action Required,4/19/18,,2,Sonoma,O'Donnel , 1 creekside ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604333,No Action Required,4/19/18,,2,Sonoma,O'Donnel , 2 creekside ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604334,No Action Required,4/19/18,,2,Sonoma,O'Donnel , 3 creekside ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 48CN604335,No Action Required,4/19/18,,2,Solano,O'Donnel , 4 creekside ,,Glen Ellen,California,95442,,,Solano,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604336,No Action Required,4/19/18,,2,Sonoma,O'Donnel , 5 creekside ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604337,No Action Required,4/19/18,,2,Sonoma,O'Donnel , 6 creekside ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 48CN604342,No Action Required,4/20/18,,2,Solano,O'Donnel , 4 creekside ,,Glen Ellen,California,95442,,,Solano,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 48CN604343,No Action Required,4/20/18,,2,Solano,Warm Springs, 1 Warm Springs Road,,Glen Ellen,California,95442,,,Solano,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604344,No Action Required,4/20/18,,2,Sonoma,Warm Springs, 2 Warm Springs Road,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,1 49CN604345,No Action Required,4/20/18,,1,Sonoma,Warm Springs, 3 Warm Springs Road,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604346,No Action Required,4/20/18,,2,Sonoma,Warm Springs,  Warm Springs Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604347,No Action Required,4/20/18,,2,Sonoma,Warm Springs, 5 Warm Springs Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604348,No Action Required,4/20/18,,2,Sonoma,Warm Springs, 6 Warm Springs Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604349,No Action Required,4/20/18,,2,Sonoma,Warm Springs, 7 Warm Springs Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604350,No Action Required,4/20/18,,2,Sonoma,Warm Springs, 8 Warm Springs Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604351,No Action Required,4/20/18,,2,Sonoma,Warm Springs, 9 Warm Springs Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604352,No Action Required,4/20/18,,2,Sonoma,Warm Springs, 10 Warm Springs Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,2 49CN604353,No Action Required,4/20/18,,2,Sonoma,Warm Springs, 11 Warm Springs Road ,,Glen Ellen,California,95442,,,Sonoma,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,9 37CN604405,NOI Required,5/1/18,,9,San Diego,TPM 655, 456 Moree Drive ,,San Marcos,California,92078,,,San Diego,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,4 19CN604458,No Action Required,5/8/18,,4,Los Angeles,Andrew, 10350 Clybourn Avenue,,Sunland,California,91040,,,Los Angeles,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,4 19CN604522,No Action Required,5/17/18,,4,Los Angeles,Davis Wire Corporation , 5555 Irwindale Avenue,,Irwindale,California,91706,,,Los Angeles,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,9 37CN604544,NOI Required,6/4/18,,9,San Diego,V Ranch, 33905 Canfield Rd,,Palomar Mountain,California,92060,,,San Diego,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,9 37CN604549,NOI Required,6/7/18,,9,San Diego,Armando Gonzalez, 9926 Proctor Valley Rd,,Chula Vista,California,91914,,,San Diego,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,5S39CN604584,NOI Required,6/19/18,,5S,San Joaquin,Sierra Pacific Warehouse Group, 1320 W Weber Ave,,Stockton,California,95203,,,San Joaquin,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,5S34CN604624,NOI Required,7/25/18,,5S,Sacramento,Slurry Waste Solutions, 7425 Reese Road,,Sacramento,California,95828,,,Sacramento,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,5F16CN604651,NOI Required,8/16/18,,5F,Kings,CID Reservoir , Nevada Ave and SR 43,,Corcoran,California,93212,,,Kings,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,5F16CN604652,NOI Required,8/16/18,,5F,Kings,CID Reservoir , Nevada Ave and SR 43,,Corcoran,California,93212,,,Kings,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,9 37CN604681,NOI Required,9/4/18,,9,San Diego,Kerry Garza, 9909 Mira Mesa Boulevard,Suite 150,San Diego,California,92131,,,San Diego,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,5S31CN604738,No Action Required,10/23/18,,5S,Placer,Charley and Erin Bates, 8273 Horseshow Bar Road,,Loomis,California,95650,,,Placer,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,5S31CN604740,No Action Required,10/30/18,,5S,Placer,Bates Residence, 8273 Horseshoe Bar Road,,Loomis,California,95650,,,Placer,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,4 56CN604742,NOI Required,10/31/18,,4,Ventura,Park Regent LLC, 0550230020,,Ventura,California,93040,,,Ventura,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,9 37CN604793,No Action Required,12/13/18,,9,San Diego,SALDIVAR  LIBORIO, 717 Ora Avo Dr,,Vista,California,9000,,,San Diego,,,,Acres,,,,,,,Construction,2018,NOI,FALSE
+Construction,,5S31CN604803,NOI Required,1/3/19,,5S,Placer,Residence, 2000 Creekside Lane,,Rocklin,California,95677,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,4 19CN604804,No Action Required,1/10/19,,4,Los Angeles,Stockton, 7001 S La Tijera Blvd,,Los Angeles,California,90045,,,Los Angeles,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,2 43CN604807,No Action Required,1/15/19,,2,Santa Clara,Bear Creek LLC, 18805 Bear Creek Road,,Los Gatos,California,95009,,,Santa Clara,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,4 19CN604808,Undetermined,1/16/19,,4,Los Angeles,Kaiser, 945 Baldwin Park,,Baldwin Park,California,,,,Los Angeles,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN604813,No Action Required,1/18/19,,5S,Placer,Residence, 3590 Annabelle Avenue,,Roseville,California,95661,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S34CN604815,NOI Required,1/23/19,,5S,Sacramento,Assisted Living Village, 6709 Walnut Ave,,Orangevale,California,95662,,,Sacramento,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S09CN604823,NOI Required,1/28/19,,5S,El Dorado,Mishra Alok, 2650 Via Fiori,,El Dorado Hills,California,95762,,,El Dorado,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S50CN604829,NOI Required,1/31/19,,5S,Stanislaus,Surgical Artistry, 4754 Dale Road,,Modesto,California,95356,,,Stanislaus,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,4 19CN604830,No Action Required,1/31/19,,4,Los Angeles,Magnolia Public School, 18238 Sherman Way,,Reseda,California,91355,,,Los Angeles,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN604975,NOI Required,3/1/19,,5S,Placer,Green Acres, 3858 Green Acres Lane,,Loomis,California,95650,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,4 19CN605339,No Action Required,3/21/19,,4,Los Angeles,West Deodar and Sawpit Lane, West Deodar and Sawpit Lane,,Monrovia,California,91017,,,Los Angeles,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN605384,NOI Required,4/10/19,,5S,Placer,Billy Wing, 7010 Chili Hill Road,,Newcastle,California,95658,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,9 37CN605393,NOI Required,4/12/19,,9,San Diego,West Coast Tomatoe Growers , 5780 Mission Ave,,Fallbrook,California,92057,,,San Diego,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,9 33CN605395,NOI Required,4/12/19,,9,Riverside,Murrieta Creek Flood Control Project - Phase IIA , 41000 Main Street,,Temecula,California,92590,,,Riverside,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,9 37CN605427,NOI Required,4/29/19,,9,San Diego,Brandon Montoya, Yerba Valley Rd,,Lakeside,California,92040,,,San Diego,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN605434,NOI Required,5/1/19,,5S,Placer,Saini Singh, 4325 Cavitt Stallman Rd,,Granite Bay,California,95746,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,2 01CN605461,No Action Required,5/6/19,,2,Alameda,Xpress Global Systems, 26318 Corporate Ave.,,Hayward,California,94545,,,Alameda,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN605530,NOI Required,5/29/19,,5S,Placer, Polo Ranch Place, 4424 Polo Ranch Place,,Granite Bay,California,95746,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,4 19CN605544,No Action Required,6/6/19,,4,Los Angeles,Unknown, 2363 1st St,,La Verne,California,91750,,,Los Angeles,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S09CN605545,NOI Required,6/6/19,,5S,El Dorado,Kanaka Residence, 794 Kanaka Valley Road,,Rescue,California,95672,,,El Dorado,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,2 28CN605546,Undetermined,6/10/19,,2,Napa,Ghilotti , 600 S Napa Junction,,American Canyon,California,94503,,,Napa,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN605566,No Action Required,7/1/19,,5S,Placer,English Colony , 1757 English Colony,,Roseville,California,95661,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN605567,No Action Required,7/1/19,,5S,Placer,Enlish Colony, 1787 English Colony,,Penryn,California,95663,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,2 43CN605623,No Action Required,8/12/19,,2,Santa Clara,Toeniskoetter Construction, 1665 N McCarthy Blvd,,Milpitas,California,95035,,,Santa Clara,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN605697,No Action Required,8/22/19,,5S,Placer,Anthony and Susan Wright, 6650 Indian Oaks Lane,,Loomis,California,95650,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,8 36CN605862,Undetermined,9/20/19,,8,San Bernardino,unknown, 7630 Cherry Avenue,,Fontana,California,92336,,,San Bernardino,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S09CN605869,Undetermined,9/26/19,,5S,El Dorado,Lenihan Property, Parcel 041-011-011-000,,Grizzly Flat,California,95684,,,El Dorado,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN605899,NOI Required,10/24/19,,5S,Placer,AJS Parcel, APN 035-050-073-000 Cavitt Stallman Rd,,Granite Bay,California,95746,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S29CN605905,No Action Required,11/4/19,,5S,Nevada,Allen Stinson, 12052 Enterprise Mine Road,,National City,California,95959,,,Nevada,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN605907,NOI Required,11/6/19,,5S,Placer,Property, 6647 Eureka Road,,Granite Bay,California,95746,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,2 48CN605913,NOI Required,11/15/19,,2,Solano,Construction site  Dhillon," Sonoma Blvd, Tract 2519.01 block 3",APN 0052160090,Vallejo,California,94589,,,Solano,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,2 01CN605914,NOI Required,11/15/19,,2,Alameda,Abel Diaz, 1199 Calhoun Street,,Hayward,California,94544,,,Alameda,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,2 43CN605916,No Action Required,11/18/19,,2,Santa Clara,CyrusOne, 531 Martin Ave.,,Santa Clara,California,95050,,,Santa Clara,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,8 33CN605917,NOI Required,11/20/19,,8,Riverside,Willow Tree at Audie Murphy Ranch, Audie Murphy Road & Normandy Rd.,,Menifee,California,92660,,,Riverside,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S31CN605919,No Action Required,11/21/19,,5S,Placer,Construction, 2400 Bell Road,# G,Auburn,California,95603,,,Placer,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,9 37CN605920,No Action Required,11/21/19,,9,San Diego,Romana Air Center, 2493 Montecito Rd,,Ramona,California,92065,,,San Diego,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,9 37CN605921,No Action Required,11/21/19,,9,San Diego,County of San Diego, 2690 Montecito Rd,,Ramona,California,92065,,,San Diego,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,5S58CN605962,No Action Required,12/27/19,,5S,Yuba,Beale Air Force Base, 6451 B Street,,Beale Afb,California,95903,,,Yuba,,,,Acres,,,,,,,Construction,2019,NOI,FALSE
+Construction,,4 19CN605966,No Action Required,1/30/20,,4,Los Angeles,Los angeles Department of Bulding and Safety, 100 Sunset Avenue,,Venice,California,90291,,,Los Angeles,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,4 19CN605967,NOI Required,2/4/20,,4,Los Angeles,Bruce R Iversen, 11622 Grande Vista Drive,,Whittier,California,90601,,,Los Angeles,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,2 43CN605968,No Action Required,2/10/20,,2,Santa Clara,Zach, 20102 Foster Road,,Los Gatos,California,95030,,,Santa Clara,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,9 33CN605982,No Action Required,3/3/20,,9,Riverside,Minh Tuong Dinh and Mai Thi Dinh, 47615 Rainbow Glen Road,,Temecula,California,92590,,,Riverside,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,4 19CN605986,No Action Required,3/10/20,,4,Los Angeles,American Fruits and Flavors San Ferando LLC, 510 Park Avenue,,San Fernando,California,91340,,,Los Angeles,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,5S31CN605998,Undetermined,4/17/20,,5S,Placer,Residence, 2000 Creekside Lane,,Loomis,California,95650,,,Placer,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,5S31CN605999,No Action Required,4/17/20,,5S,Placer,Chad Oldwin, 3520 Auburn Folsom Rd,,Loomis,California,95650,,,Placer,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,4 19CN606005,No Action Required,5/5/20,,4,Los Angeles,Unknown, 14098 Bora Bora Way,,Marina Del Rey,California,90292,,,Los Angeles,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,5S50CN606011,NOI Required,5/14/20,,5S,Stanislaus,Home2 Suites by Hilton, 1831 Lander Ave,,Turlock,California,95380,,,Stanislaus,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,4 19CN606037,NOI Required,7/7/20,,4,Los Angeles,RJs Property Management LLC," AINs 2526-025-022, 2526-024-270, 2526-024-028, 2526-024-021, 2581-027-004, and 2581-026-012",,Sylmar,California,91342,,,Los Angeles,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,5R45CN606132,NOI Required,10/20/20,,5R,Shasta,Airport Road Site, 6699 Airport Road,,Redding,California,96002,,,Shasta,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,4 19CN606133,No Action Required,11/2/20,,4,Los Angeles,Amazon com Services LLC DAX3 , 20730 Prairie Steet,,Chatsworth,California,91311,,,Los Angeles,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,5R45CN606134,NOI Required,11/2/20,,5R,Shasta,Steve Woods, 5497 5525 Airport Road,,Redding,California,96002,,,Shasta,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,5S39CN606144,NOI Required,12/30/20,,5S,San Joaquin,BD Homes Subdivision, 2233 Wagner Heights Rd,,Stockton,California,95209,,,San Joaquin,,,,Acres,,,,,,,Construction,2020,NOI,FALSE
+Construction,,5S09CN606196,NOI Required,2/16/21,,5S,El Dorado,Peter Caietti III, 2715 Clarksville Rd,,Rescue,California,95630,,,El Dorado,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
+Construction,,5R52CN606206,NOI Required,3/24/21,,5R,Tehama,Walnut and Baker , 2090 Walnut Street,,Red Bluff,California,96080,,,Tehama,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
+Construction,,5S31CN606359,No Action Required,4/16/21,,5S,Placer,Khorovets Place, Yankee Jims,APN 071-250-013,Colfax,California,95713,,,Placer,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
+Construction,,9 37CN606950,NOI Required,8/10/21,,9,San Diego,Private Home, 14103 Calle De Vista,,Valley Center,California,92082,,,San Diego,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
+Construction,,5S05CN607046,NOI Required,8/24/21,,5S,Calaveras,Bayview Dr Property, 4947 Bayview Dr,,Copperopolis,California,95228,,,Calaveras,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
+Construction,,9 37CN607056,NOI Required,8/25/21,,9,San Diego,Poppet Family Trust Residential Construction, 27102 Olde Hwy 80,,Guatay,California,91931,,,San Diego,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
+Construction,,4 19CN607146,NOI Required,10/4/21,,4,Los Angeles,737 & 765 Lewis Street, 737 & 765 Lewis Street,,Pomona,California,91768,,,Los Angeles,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
+Construction,,9 37CN607155,NOI Required,10/6/21,,9,San Diego,Merly & Robert Johanesen Residential Construction, 0 Tierra Del Sol,,Live Oak Springs,California,91905,,,San Diego,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
+Construction,,4 19CN607164,Undetermined,10/15/21,,4,Los Angeles,City of West Covina Detention Basin, 2210 South Azusa Avenue,,West Covina,California,91792,,,Los Angeles,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
+Construction,,4 56CN607228,NOI Required,12/20/21,,4,Ventura,D-G Acquisition 6  LLC, 903 Quisma Dr,,Simi Valley,California,93065,,,Ventura,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
+Construction,,9 37CN607238,NOI Required,12/28/21,,9,San Diego,Sutherland Dam Road Construction APN 246-130-40-00 , 0 Sutherland Dam Road,,Ramona,California,92065,,,San Diego,,,,Acres,,,,,,,Construction,2021,NOI,FALSE
